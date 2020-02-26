@@ -343,7 +343,7 @@ isRaining
     Enter month: February
     February has 28 days.
 
-    Enter month: FEbruary
+    Enter month: February
     February has 28 days.
   ```
 
